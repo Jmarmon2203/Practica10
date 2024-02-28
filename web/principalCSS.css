@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+#suma {
+    text-align: center;
+}
+
+#autor {
+    font-style: italic;
+    color: #000000;
+    margin-top: 4%;
+    margin-left: 10px;
+}
+
+#volver {
+    color: #000000;
+    text-align: center;
+    margin-top: 8%;
+}
+
+#tabla {
+    margin-left: 40px;
+}
+
+#lista {
+    text-align: right;
+    margin-right: 40px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    height: 6cm;
+    width: 6.3cm;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
